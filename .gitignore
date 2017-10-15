@@ -13,8 +13,8 @@ SpawnsOld/
 UOINSTALL/
 Scripts/Customs/Sensative/
 Emails.xml
-Scripts\Output\Scripts.CS.dll
-Scripts\Output\Scripts.CS.hash
+Scripts/Output/Scripts.CS.dll
+Scripts/Output/Scripts.CS.hash
 
 # User-specific files
 *.suo
